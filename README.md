@@ -1,2 +1,1 @@
-# advanced-bootstrap-web
-assignment advanced bootstrap #8
+# cute-animals-bootstrap
